@@ -10,9 +10,13 @@ You can choose whether to build a web, mobile, or desktop-based application.
 The application should collect the following fields:
 
 First Name
+
 Last Name
+
 Phone Number
+
 Email ID
+
 Address
 
 #Key Requirements:
