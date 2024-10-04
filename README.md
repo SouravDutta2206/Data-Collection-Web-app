@@ -22,7 +22,9 @@ Address
 #Key Requirements:
 
 Store user details in a database
+
 Implement data validation
+
 Provide a user-friendly interface with CRUD operations and validation messages
 
 Tech Stack : MongoDB, Express.js, React.js, Node.js (MERN), TailwindCSS for styling
